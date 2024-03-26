@@ -3,7 +3,7 @@
 
 ## How to use 
 Run the example code: ```python dashapp_example.py```
-1.***dashapp_example.py***: plots and deploy in the localhost using flask
+1. ***dashapp_example.py***: plots and deploy in the localhost using flask
 You can also draw the plots using a log_yyyy_mm_dd.txt file
 2. ***firebase_retrieve.py***: implement a function to retrieve data from a given path for a given duration and save the data as a json file. 
 You can also export the json file for a path directly from firebase project page.
